@@ -1,0 +1,85 @@
+
+
+.fondo4{
+    background-color: #28a745;
+}
+.texto-principal{
+    color:  #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21pt;
+    font-weight: bold;
+    /* font-size: 3vw; */
+}
+
+.peliculas{
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.peliculas > h3{
+    margin-bottom: 0px;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;  
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+}
+h6{
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+}
+
+.formulario{
+    background-color: #28a745;
+    color:  #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21pt;
+    
+}
+
+
+.texto-form{
+    
+    color:  #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 33pt;
+    font-weight: normal;
+}
+
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold; 
+}
+
+.nav-dd{
+    margin-left: auto;
+    padding-right: 20px;
+}
+
+.card-text{
+  
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+.oferta{
+    text-decoration:line-through;
+    font-family: 'Roboto', sans-serif;
+}
+
+.boton{
+    font-family: 'Roboto', sans-serif;
+    width: 112.71px !important;
+    height: 40px;
+}
+
+footer > p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
